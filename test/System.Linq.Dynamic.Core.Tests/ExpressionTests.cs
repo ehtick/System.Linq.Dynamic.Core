@@ -5,7 +5,6 @@ using System.Linq.Dynamic.Core.CustomTypeProviders;
 using System.Linq.Dynamic.Core.Exceptions;
 using System.Linq.Dynamic.Core.Tests.Helpers;
 using System.Linq.Dynamic.Core.Tests.Helpers.Models;
-using System.Net.WebSockets;
 using System.Xml;
 using FluentAssertions;
 using Moq;

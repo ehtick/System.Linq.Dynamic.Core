@@ -1,3 +1,10 @@
+# v1.7.3 (11 July 2026)
+- [#981](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/981) - Fix MethodFinder.FirstIsBetterThanSecond [bug] contributed by [StefH](https://github.com/StefH)
+- [#984](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/984) - By default, also support WellKnownTypes like StringComparer [feature] contributed by [StefH](https://github.com/StefH)
+- [#985](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/985) - Add some more unit tests for DynamicExpressionParser.ParseLambda [test] contributed by [StefH](https://github.com/StefH)
+- [#980](https://github.com/zzzprojects/System.Linq.Dynamic.Core/issues/980) - IndexOutOfRangeException in MethodFinder.FirstIsBetterThanSecond after upgrading to v1.7.2 [bug]
+- [#983](https://github.com/zzzprojects/System.Linq.Dynamic.Core/issues/983) - How to IEnumerable&lt;string&gt;.Contains(x, StringComparer.OrdinalIgnoreCase) ? [feature]
+
 # v1.7.2 (04 April 2026)
 - [#971](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/971) - Fix some sonarcloud issues [refactor] contributed by [StefH](https://github.com/StefH)
 - [#974](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/974) - Fix unhandled exceptions from malformed expression strings [bug] contributed by [Copilot](https://github.com/apps/copilot-swe-agent)

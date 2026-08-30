@@ -1,3 +1,9 @@
+# v1.7.4 (30 August 2026)
+- [#988](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/988) - Refactor &quot;In&quot;-Expression [bug] contributed by [StefH](https://github.com/StefH)
+- [#989](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/989) - Upgrade some dependencies [dependencies] contributed by [StefH](https://github.com/StefH)
+- [#990](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/990) - Fix SlidingCacheTests [test] contributed by [StefH](https://github.com/StefH)
+- [#987](https://github.com/zzzprojects/System.Linq.Dynamic.Core/issues/987) - After upgrading from NET8 to NET10, Dynamic Linq &quot;in&quot; statement return different results in Debug or Release mode [bug]
+
 # v1.7.3 (11 July 2026)
 - [#981](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/981) - Fix MethodFinder.FirstIsBetterThanSecond [bug] contributed by [StefH](https://github.com/StefH)
 - [#984](https://github.com/zzzprojects/System.Linq.Dynamic.Core/pull/984) - By default, also support WellKnownTypes like StringComparer [feature] contributed by [StefH](https://github.com/StefH)
